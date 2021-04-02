@@ -1,918 +1,918 @@
-Apr 02, 2021 5:44:25 AM reposense.parser.CsvParser validateHeader
+Apr 02, 2021 4:06:01 PM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, repo-config.csv, and recognized columns: Ignore Commit List,  Repository's Location,  Branch,  File formats,  Ignore Glob List,  Ignore Authors List,  Ignore standalone config
-Apr 02, 2021 5:44:25 AM reposense.parser.CsvParser validateHeader
+Apr 02, 2021 4:06:01 PM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, author-config.csv, and recognized columns: Author's Emails,  Repository's Location,  Author's GitHub ID,  Branch,  Author's Display Name,  Ignore Glob List,  Author's Git Author Name
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ninijiaying found. The alias will belong to the last author - NiniJiaying
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias chanell found. The alias will belong to the last author - chanellNg
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sidney011100 found. The alias will belong to the last author - Sidney011100
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias Icelenaugust found. The alias will belong to the last author - icelenaugust
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias BennyPhoe found. The alias will belong to the last author - Bennyphoe
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias marc-97 found. The alias will belong to the last author - Marc-97
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias darkdestry-t found. The alias will belong to the last author - DarkDestry-t
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias YuHeem found. The alias will belong to the last author - yuheem
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ppris found. The alias will belong to the last author - pPris
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias andrewzhang217 found. The alias will belong to the last author - Andrewzhang217
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias wei yutong found. The alias will belong to the last author - wei-yutong
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias Icelenaugust found. The alias will belong to the last author - icelenaugust
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias sidney011100 found. The alias will belong to the last author - Sidney011100
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias chanell found. The alias will belong to the last author - chanellNg
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias BennyPhoe found. The alias will belong to the last author - Bennyphoe
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ninijiaying found. The alias will belong to the last author - NiniJiaying
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias ppris found. The alias will belong to the last author - pPris
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias marc-97 found. The alias will belong to the last author - Marc-97
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias darkdestry-t found. The alias will belong to the last author - DarkDestry-t
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias YuHeem found. The alias will belong to the last author - yuheem
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias andrewzhang217 found. The alias will belong to the last author - Andrewzhang217
-Apr 02, 2021 5:44:25 AM reposense.model.AuthorConfiguration checkDuplicateAliases
+Apr 02, 2021 4:06:01 PM reposense.model.AuthorConfiguration checkDuplicateAliases
 WARNING: Duplicate alias wei yutong found. The alias will belong to the last author - wei-yutong
-Apr 02, 2021 5:44:25 AM reposense.parser.CsvParser validateHeader
+Apr 02, 2021 4:06:01 PM reposense.parser.CsvParser validateHeader
 INFO: Parsed header of CSV file, group-config.csv, and recognized columns: Globs,  Repository's Location,  Group Name
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-4/tp.git...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-3/tp.git...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T12-1/tp.git...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-4/tp.git...
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W15-4/tp.git...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-4/tp.git to complete...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-3/tp.git to complete...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W15-4/tp.git to complete...
-Apr 02, 2021 5:44:25 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-4/tp.git to complete...
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T12-1/tp.git to complete...
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-T14-3/tp.git completed!
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-2/tp.git...
-Apr 02, 2021 5:44:27 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [1/48] Analyzing https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-2/tp.git to complete...
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-3/tp.git...
+Apr 02, 2021 4:06:01 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-3/tp.git to complete...
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-T12-1/tp.git completed!
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W12-1/tp.git...
-Apr 02, 2021 5:44:27 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [2/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W12-1/tp.git to complete...
-Apr 02, 2021 5:44:27 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-T14-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:44:27 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
-Apr 02, 2021 5:44:27 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:44:27 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-2/tp.git...
+Apr 02, 2021 4:06:04 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [1/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-2/tp.git to complete...
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-T14-3/tp.git completed!
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W15-4/tp.git completed!
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W12-1/tp.git...
+Apr 02, 2021 4:06:04 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [2/48] Analyzing https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W12-2/tp.git...
-Apr 02, 2021 5:44:27 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W12-1/tp.git to complete...
+Apr 02, 2021 4:06:04 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W12-2/tp.git to complete...
-Apr 02, 2021 5:44:28 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:05 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-T14-4/tp.git completed!
-Apr 02, 2021 5:44:28 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:05 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W15-3/tp.git...
-Apr 02, 2021 5:44:28 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:05 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W15-3/tp.git to complete...
-Apr 02, 2021 5:44:28 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:05 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-T14-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:06:05 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:06:05 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
+Apr 02, 2021 4:06:05 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
+Apr 02, 2021 4:06:06 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
-Apr 02, 2021 5:44:28 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
-Apr 02, 2021 5:44:29 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
-Apr 02, 2021 5:44:29 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:06 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-T14-2/tp.git completed!
-Apr 02, 2021 5:44:29 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:06 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W15-1/tp.git...
-Apr 02, 2021 5:44:29 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:06 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W15-1/tp.git to complete...
-Apr 02, 2021 5:44:29 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:06 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master)...
+Apr 02, 2021 4:06:07 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W12-1/tp.git completed!
-Apr 02, 2021 5:44:29 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:07 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W15-2/tp.git...
-Apr 02, 2021 5:44:29 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:07 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W15-2/tp.git to complete...
-Apr 02, 2021 5:44:29 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
-Apr 02, 2021 5:44:30 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:07 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W12-2/tp.git completed!
-Apr 02, 2021 5:44:30 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:07 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W12-3/tp.git...
-Apr 02, 2021 5:44:30 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:07 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W12-3/tp.git to complete...
-Apr 02, 2021 5:44:30 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:07 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
+Apr 02, 2021 4:06:07 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T14-3/tp.git (master)...
+Apr 02, 2021 4:06:08 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W15-3/tp.git completed!
-Apr 02, 2021 5:44:30 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:08 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W17-1/tp.git...
-Apr 02, 2021 5:44:30 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:08 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W17-1/tp.git to complete...
-Apr 02, 2021 5:44:32 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:09 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W15-2/tp.git completed!
-Apr 02, 2021 5:44:32 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:09 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W17-2/tp.git...
-Apr 02, 2021 5:44:32 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:09 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W17-2/tp.git to complete...
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-W12-3/tp.git completed!
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W14-1/tp.git...
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W14-1/tp.git to complete...
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-W17-1/tp.git completed!
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W14-2/tp.git...
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W14-2/tp.git to complete...
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:10 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W15-1/tp.git completed!
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:10 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W14-1/tp.git...
+Apr 02, 2021 4:06:10 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W14-1/tp.git to complete...
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-W17-1/tp.git completed!
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W14-2/tp.git...
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W14-2/tp.git to complete...
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-W12-3/tp.git completed!
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W14-4/tp.git...
-Apr 02, 2021 5:44:33 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W14-4/tp.git to complete...
-Apr 02, 2021 5:44:34 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:11 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-W17-2/tp.git completed!
-Apr 02, 2021 5:44:34 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:12 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W14-3/tp.git...
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:12 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W14-3/tp.git to complete...
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:12 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W14-1/tp.git completed!
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:12 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W17-3/tp.git...
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:12 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W17-3/tp.git to complete...
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:14 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W14-4/tp.git completed!
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:14 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W17-4/tp.git...
-Apr 02, 2021 5:44:35 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:14 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W17-4/tp.git to complete...
-Apr 02, 2021 5:44:36 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W14-2/tp.git completed!
-Apr 02, 2021 5:44:36 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T12-3/tp.git...
-Apr 02, 2021 5:44:36 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T12-3/tp.git to complete...
-Apr 02, 2021 5:44:37 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W14-3/tp.git completed!
-Apr 02, 2021 5:44:37 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T12-3/tp.git...
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T12-4/tp.git...
-Apr 02, 2021 5:44:37 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T12-3/tp.git to complete...
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T12-4/tp.git to complete...
-Apr 02, 2021 5:44:38 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-W17-3/tp.git completed!
-Apr 02, 2021 5:44:38 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T12-2/tp.git...
-Apr 02, 2021 5:44:38 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:15 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T12-2/tp.git to complete...
-Apr 02, 2021 5:44:38 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:16 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-W17-4/tp.git completed!
-Apr 02, 2021 5:44:38 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:16 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W13-1/tp.git...
-Apr 02, 2021 5:44:38 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:17 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W13-1/tp.git to complete...
-Apr 02, 2021 5:44:39 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T12-3/tp.git completed!
-Apr 02, 2021 5:44:39 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-4/tp.git...
-Apr 02, 2021 5:44:39 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-4/tp.git to complete...
-Apr 02, 2021 5:44:40 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:18 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-T12-2/tp.git completed!
-Apr 02, 2021 5:44:40 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:18 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-4/tp.git...
+Apr 02, 2021 4:06:18 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-4/tp.git to complete...
+Apr 02, 2021 4:06:18 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T12-3/tp.git completed!
+Apr 02, 2021 4:06:18 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W13-2/tp.git...
-Apr 02, 2021 5:44:40 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:18 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W13-2/tp.git to complete...
-Apr 02, 2021 5:44:41 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-4/tp.git completed!
-Apr 02, 2021 5:44:41 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-3/tp.git...
-Apr 02, 2021 5:44:41 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-3/tp.git to complete...
-Apr 02, 2021 5:44:41 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:19 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-T12-1/tp.git (master) completed!
-Apr 02, 2021 5:44:41 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:19 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [3/48] Analyzing https://github.com/AY2021S2-CS2103T-W15-4/tp.git (master)...
-Apr 02, 2021 5:44:42 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-1/tp.git completed!
-Apr 02, 2021 5:44:42 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T10-2/tp.git...
-Apr 02, 2021 5:44:42 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T10-2/tp.git to complete...
-Apr 02, 2021 5:44:42 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:20 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W15-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:44:42 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:20 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W15-4/tp.git (master)...
-Apr 02, 2021 5:44:42 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T12-4/tp.git completed!
-Apr 02, 2021 5:44:42 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T10-1/tp.git...
-Apr 02, 2021 5:44:42 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T10-1/tp.git to complete...
-Apr 02, 2021 5:44:43 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-3/tp.git completed!
-Apr 02, 2021 5:44:43 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T16-2/tp.git...
-Apr 02, 2021 5:44:43 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T16-2/tp.git to complete...
-Apr 02, 2021 5:44:43 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:20 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-1/tp.git completed!
+Apr 02, 2021 4:06:20 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-3/tp.git...
+Apr 02, 2021 4:06:20 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-3/tp.git to complete...
+Apr 02, 2021 4:06:21 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-4/tp.git completed!
+Apr 02, 2021 4:06:21 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T10-2/tp.git...
+Apr 02, 2021 4:06:21 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T10-2/tp.git to complete...
+Apr 02, 2021 4:06:21 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W15-4/tp.git (master)...
-Apr 02, 2021 5:44:43 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:21 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W15-4/tp.git (master)...
-Apr 02, 2021 5:44:43 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:21 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-2/tp.git completed!
-Apr 02, 2021 5:44:43 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:21 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T10-1/tp.git...
+Apr 02, 2021 4:06:21 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T10-1/tp.git to complete...
+Apr 02, 2021 4:06:22 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T12-4/tp.git completed!
+Apr 02, 2021 4:06:22 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T16-2/tp.git...
+Apr 02, 2021 4:06:22 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T16-2/tp.git to complete...
+Apr 02, 2021 4:06:22 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-3/tp.git completed!
+Apr 02, 2021 4:06:22 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T13-4/tp.git...
-Apr 02, 2021 5:44:43 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:22 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T13-4/tp.git to complete...
-Apr 02, 2021 5:44:44 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:23 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-T10-2/tp.git completed!
-Apr 02, 2021 5:44:44 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:23 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T13-3/tp.git...
-Apr 02, 2021 5:44:44 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:23 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T13-3/tp.git to complete...
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T10-1/tp.git completed!
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T16-3/tp.git...
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T16-3/tp.git to complete...
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T13-4/tp.git completed!
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T16-1/tp.git...
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T16-1/tp.git to complete...
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:25 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-T16-2/tp.git completed!
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:25 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T16-3/tp.git...
+Apr 02, 2021 4:06:25 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T16-3/tp.git to complete...
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T13-4/tp.git completed!
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T10-1/tp.git completed!
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T16-1/tp.git...
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T16-1/tp.git to complete...
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T13-2/tp.git...
-Apr 02, 2021 5:44:45 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T13-2/tp.git to complete...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-T13-3/tp.git completed!
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T13-1/tp.git...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:26 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T13-1/tp.git to complete...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-T16-1/tp.git completed!
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-1/tp.git...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-1/tp.git to complete...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103-T16-3/tp.git completed!
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-1/tp.git...
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-1/tp.git to complete...
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-T16-1/tp.git completed!
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-2/tp.git...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-2/tp.git to complete...
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-T13-2/tp.git completed!
-Apr 02, 2021 5:44:47 AM reposense.report.RepoCloner spawnCloneProcess
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-T11-2/tp.git...
-Apr 02, 2021 5:44:48 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:28 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-T11-2/tp.git to complete...
-Apr 02, 2021 5:44:49 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-1/tp.git completed!
-Apr 02, 2021 5:44:49 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-1/tp.git...
-Apr 02, 2021 5:44:49 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-1/tp.git to complete...
-Apr 02, 2021 5:44:49 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T13-1/tp.git completed!
-Apr 02, 2021 5:44:49 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-3/tp.git...
-Apr 02, 2021 5:44:49 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-3/tp.git to complete...
-Apr 02, 2021 5:44:50 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-2/tp.git completed!
-Apr 02, 2021 5:44:50 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-4/tp.git...
-Apr 02, 2021 5:44:50 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-4/tp.git to complete...
-Apr 02, 2021 5:44:50 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-2/tp.git completed!
-Apr 02, 2021 5:44:50 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-3/tp.git...
-Apr 02, 2021 5:44:50 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-3/tp.git to complete...
-Apr 02, 2021 5:44:51 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-T14-1/tp.git completed!
-Apr 02, 2021 5:44:51 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-1/tp.git...
-Apr 02, 2021 5:44:51 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-1/tp.git to complete...
-Apr 02, 2021 5:44:52 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-W10-3/tp.git completed!
-Apr 02, 2021 5:44:52 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W13-3/tp.git...
-Apr 02, 2021 5:44:52 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W13-3/tp.git to complete...
-Apr 02, 2021 5:44:52 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-3/tp.git completed!
-Apr 02, 2021 5:44:52 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W13-4/tp.git...
-Apr 02, 2021 5:44:52 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W13-4/tp.git to complete...
-Apr 02, 2021 5:44:53 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-W10-4/tp.git completed!
-Apr 02, 2021 5:44:53 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-4/tp.git...
-Apr 02, 2021 5:44:53 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-4/tp.git to complete...
-Apr 02, 2021 5:44:53 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:28 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W15-4/tp.git (master) completed!
-Apr 02, 2021 5:44:53 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:28 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [4/48] Analyzing https://github.com/AY2021S2-CS2103-T14-4/tp.git (master)...
-Apr 02, 2021 5:44:54 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-1/tp.git completed!
-Apr 02, 2021 5:44:54 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-2/tp.git...
-Apr 02, 2021 5:44:54 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-2/tp.git to complete...
-Apr 02, 2021 5:44:54 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103-T14-3/tp.git (master) completed!
-Apr 02, 2021 5:44:54 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [5/48] Analyzing https://github.com/AY2021S2-CS2103-T14-2/tp.git (master)...
-Apr 02, 2021 5:44:54 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:29 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T13-1/tp.git completed!
+Apr 02, 2021 4:06:29 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-T14-1/tp.git...
+Apr 02, 2021 4:06:29 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-T14-1/tp.git to complete...
+Apr 02, 2021 4:06:29 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-T14-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:44:54 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:29 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T14-4/tp.git (master)...
-Apr 02, 2021 5:44:54 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-3/tp.git completed!
-Apr 02, 2021 5:44:54 AM reposense.report.RepoCloner spawnCloneProcess
-INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-1/tp.git...
-Apr 02, 2021 5:44:54 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-1/tp.git to complete...
-Apr 02, 2021 5:44:54 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-T14-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:44:54 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T14-2/tp.git (master)...
-Apr 02, 2021 5:44:55 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-4/tp.git completed!
-Apr 02, 2021 5:44:55 AM reposense.report.RepoCloner waitForCloneProcess
-INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-4/tp.git completed!
-Apr 02, 2021 5:44:55 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:30 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103-T14-3/tp.git (master) completed!
+Apr 02, 2021 4:06:30 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [5/48] Analyzing https://github.com/AY2021S2-CS2103-T14-2/tp.git (master)...
+Apr 02, 2021 4:06:30 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T14-4/tp.git (master)...
-Apr 02, 2021 5:44:55 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:30 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T14-4/tp.git (master)...
-Apr 02, 2021 5:44:55 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:30 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-1/tp.git completed!
+Apr 02, 2021 4:06:30 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-3/tp.git...
+Apr 02, 2021 4:06:30 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-3/tp.git to complete...
+Apr 02, 2021 4:06:31 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-T14-2/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:06:31 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T14-2/tp.git (master)...
+Apr 02, 2021 4:06:31 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-T14-1/tp.git completed!
+Apr 02, 2021 4:06:31 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-4/tp.git...
+Apr 02, 2021 4:06:31 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-4/tp.git to complete...
+Apr 02, 2021 4:06:32 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-T11-2/tp.git completed!
+Apr 02, 2021 4:06:32 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-3/tp.git...
+Apr 02, 2021 4:06:32 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-3/tp.git to complete...
+Apr 02, 2021 4:06:32 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T14-2/tp.git (master)...
-Apr 02, 2021 5:44:55 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:32 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T14-2/tp.git (master)...
-Apr 02, 2021 5:44:56 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:32 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-2/tp.git completed!
+Apr 02, 2021 4:06:32 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-1/tp.git...
+Apr 02, 2021 4:06:32 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-1/tp.git to complete...
+Apr 02, 2021 4:06:33 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-W10-3/tp.git completed!
+Apr 02, 2021 4:06:33 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W13-3/tp.git...
+Apr 02, 2021 4:06:33 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W13-3/tp.git to complete...
+Apr 02, 2021 4:06:34 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-W10-4/tp.git completed!
+Apr 02, 2021 4:06:34 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W13-4/tp.git...
+Apr 02, 2021 4:06:34 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W13-4/tp.git to complete...
+Apr 02, 2021 4:06:35 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-3/tp.git completed!
+Apr 02, 2021 4:06:35 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103-W16-4/tp.git...
+Apr 02, 2021 4:06:35 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103-W16-4/tp.git to complete...
+Apr 02, 2021 4:06:35 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-1/tp.git completed!
+Apr 02, 2021 4:06:35 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-2/tp.git...
+Apr 02, 2021 4:06:35 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-2/tp.git to complete...
+Apr 02, 2021 4:06:36 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-3/tp.git completed!
+Apr 02, 2021 4:06:36 PM reposense.report.RepoCloner spawnCloneProcess
+INFO: Cloning in parallel from https://github.com/AY2021S2-CS2103T-W10-1/tp.git...
+Apr 02, 2021 4:06:36 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Waiting for cloning of https://github.com/AY2021S2-CS2103T-W10-1/tp.git to complete...
+Apr 02, 2021 4:06:36 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103-W16-4/tp.git completed!
+Apr 02, 2021 4:06:37 PM reposense.report.RepoCloner waitForCloneProcess
+INFO: Cloning of https://github.com/AY2021S2-CS2103T-W13-4/tp.git completed!
+Apr 02, 2021 4:06:38 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W10-2/tp.git completed!
-Apr 02, 2021 5:44:56 AM reposense.report.RepoCloner waitForCloneProcess
+Apr 02, 2021 4:06:39 PM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/AY2021S2-CS2103T-W10-1/tp.git completed!
-Apr 02, 2021 5:45:00 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:40 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-T14-4/tp.git (master) completed!
-Apr 02, 2021 5:45:00 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:40 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [6/48] Analyzing https://github.com/AY2021S2-CS2103T-W12-1/tp.git (master)...
-Apr 02, 2021 5:45:00 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:40 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W12-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:00 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:40 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W12-1/tp.git (master)...
-Apr 02, 2021 5:45:00 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:40 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W12-1/tp.git (master)...
-Apr 02, 2021 5:45:00 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:40 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W12-1/tp.git (master)...
-Apr 02, 2021 5:45:01 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:42 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-T14-2/tp.git (master) completed!
-Apr 02, 2021 5:45:01 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:42 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [7/48] Analyzing https://github.com/AY2021S2-CS2103T-W12-2/tp.git (master)...
-Apr 02, 2021 5:45:01 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:42 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W12-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:01 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:42 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W12-2/tp.git (master)...
-Apr 02, 2021 5:45:02 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:42 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W12-2/tp.git (master)...
-Apr 02, 2021 5:45:02 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:42 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W12-2/tp.git (master)...
-Apr 02, 2021 5:45:03 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:43 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W12-1/tp.git (master) completed!
-Apr 02, 2021 5:45:03 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:43 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [8/48] Analyzing https://github.com/AY2021S2-CS2103T-W15-3/tp.git (master)...
-Apr 02, 2021 5:45:03 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:43 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W15-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:03 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:43 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W15-3/tp.git (master)...
-Apr 02, 2021 5:45:04 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:44 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W15-3/tp.git (master)...
-Apr 02, 2021 5:45:04 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:44 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W15-3/tp.git (master)...
-Apr 02, 2021 5:45:05 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:45 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W12-2/tp.git (master) completed!
-Apr 02, 2021 5:45:05 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:45 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [9/48] Analyzing https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master)...
-Apr 02, 2021 5:45:05 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:46 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:05 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:46 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master)...
-Apr 02, 2021 5:45:05 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:46 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master)...
-Apr 02, 2021 5:45:05 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:46 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master)...
-Apr 02, 2021 5:45:07 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:47 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W15-3/tp.git (master) completed!
-Apr 02, 2021 5:45:07 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [10/48] Analyzing https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
-Apr 02, 2021 5:45:07 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:07 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
-Apr 02, 2021 5:45:07 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
-Apr 02, 2021 5:45:07 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
-Apr 02, 2021 5:45:09 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master) completed!
-Apr 02, 2021 5:45:09 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [11/48] Analyzing https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
-Apr 02, 2021 5:45:09 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-W17-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:09 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
-Apr 02, 2021 5:45:09 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
-Apr 02, 2021 5:45:09 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
-Apr 02, 2021 5:45:10 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master) completed!
-Apr 02, 2021 5:45:10 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [12/48] Analyzing https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master)...
-Apr 02, 2021 5:45:10 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:47 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [10/48] Analyzing https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master)...
+Apr 02, 2021 4:06:48 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:10 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:48 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master)...
-Apr 02, 2021 5:45:11 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:48 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master)...
-Apr 02, 2021 5:45:11 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:48 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master)...
-Apr 02, 2021 5:45:13 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103-W17-1/tp.git (master) completed!
-Apr 02, 2021 5:45:14 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [13/48] Analyzing https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
-Apr 02, 2021 5:45:14 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-W17-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:14 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
-Apr 02, 2021 5:45:14 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
-Apr 02, 2021 5:45:14 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
-Apr 02, 2021 5:45:16 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:50 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-W15-2/tp.git (master) completed!
+Apr 02, 2021 4:06:50 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [11/48] Analyzing https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
+Apr 02, 2021 4:06:50 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-W17-1/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:06:50 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
+Apr 02, 2021 4:06:50 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
+Apr 02, 2021 4:06:50 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W17-1/tp.git (master)...
+Apr 02, 2021 4:06:53 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W15-1/tp.git (master) completed!
-Apr 02, 2021 5:45:16 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:53 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [12/48] Analyzing https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
+Apr 02, 2021 4:06:54 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:06:54 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
+Apr 02, 2021 4:06:54 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
+Apr 02, 2021 4:06:54 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master)...
+Apr 02, 2021 4:06:54 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103-W17-1/tp.git (master) completed!
+Apr 02, 2021 4:06:54 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [13/48] Analyzing https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
+Apr 02, 2021 4:06:55 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-W17-2/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:06:55 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
+Apr 02, 2021 4:06:55 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
+Apr 02, 2021 4:06:55 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W17-2/tp.git (master)...
+Apr 02, 2021 4:06:57 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-W12-3/tp.git (master) completed!
+Apr 02, 2021 4:06:57 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [14/48] Analyzing https://github.com/AY2021S2-CS2103T-W14-1/tp.git (master)...
-Apr 02, 2021 5:45:16 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:57 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W14-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:16 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:57 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W14-1/tp.git (master)...
-Apr 02, 2021 5:45:16 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:57 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W14-1/tp.git (master)...
-Apr 02, 2021 5:45:16 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:57 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W14-1/tp.git (master)...
-Apr 02, 2021 5:45:18 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:06:59 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-W17-2/tp.git (master) completed!
-Apr 02, 2021 5:45:18 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:06:59 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [15/48] Analyzing https://github.com/AY2021S2-CS2103T-W14-4/tp.git (master)...
-Apr 02, 2021 5:45:18 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:06:59 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W14-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:18 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:06:59 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W14-4/tp.git (master)...
-Apr 02, 2021 5:45:18 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:06:59 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W14-4/tp.git (master)...
-Apr 02, 2021 5:45:18 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:06:59 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W14-4/tp.git (master)...
-Apr 02, 2021 5:45:20 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:01 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W14-1/tp.git (master) completed!
-Apr 02, 2021 5:45:20 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:07:01 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [16/48] Analyzing https://github.com/AY2021S2-CS2103T-W14-2/tp.git (master)...
-Apr 02, 2021 5:45:20 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:01 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W14-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:20 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:01 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W14-2/tp.git (master)...
-Apr 02, 2021 5:45:20 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:02 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W14-2/tp.git (master)...
-Apr 02, 2021 5:45:20 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:02 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W14-2/tp.git (master)...
-Apr 02, 2021 5:45:22 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:04 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W14-4/tp.git (master) completed!
-Apr 02, 2021 5:45:22 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:07:04 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [17/48] Analyzing https://github.com/AY2021S2-CS2103T-W14-3/tp.git (master)...
-Apr 02, 2021 5:45:22 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:04 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W14-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:22 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:04 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W14-3/tp.git (master)...
-Apr 02, 2021 5:45:23 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:04 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W14-3/tp.git (master)...
-Apr 02, 2021 5:45:23 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:04 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W14-3/tp.git (master)...
-Apr 02, 2021 5:45:26 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:07 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W14-2/tp.git (master) completed!
-Apr 02, 2021 5:45:26 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:07:07 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [18/48] Analyzing https://github.com/AY2021S2-CS2103-W17-3/tp.git (master)...
-Apr 02, 2021 5:45:26 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:08 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-W17-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:26 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:08 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W17-3/tp.git (master)...
-Apr 02, 2021 5:45:27 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:08 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W17-3/tp.git (master)...
-Apr 02, 2021 5:45:27 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:08 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W17-3/tp.git (master)...
-Apr 02, 2021 5:45:27 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:08 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W14-3/tp.git (master) completed!
-Apr 02, 2021 5:45:27 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:07:09 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [19/48] Analyzing https://github.com/AY2021S2-CS2103-W17-4/tp.git (master)...
-Apr 02, 2021 5:45:27 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:09 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-W17-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:27 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:09 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W17-4/tp.git (master)...
-Apr 02, 2021 5:45:27 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:09 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W17-4/tp.git (master)...
-Apr 02, 2021 5:45:27 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:09 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W17-4/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:15 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-W17-3/tp.git (master) completed!
-Apr 02, 2021 5:45:33 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [20/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:33 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103-W17-4/tp.git (master) completed!
-Apr 02, 2021 5:45:33 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [21/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:15 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [20/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master)...
+Apr 02, 2021 4:07:15 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:33 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:15 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:15 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103-W17-4/tp.git (master) completed!
+Apr 02, 2021 4:07:15 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [21/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
+Apr 02, 2021 4:07:15 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:15 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
+Apr 02, 2021 4:07:15 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master)...
-Apr 02, 2021 5:45:33 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:15 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master)...
-Apr 02, 2021 5:45:36 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:16 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
+Apr 02, 2021 4:07:16 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master)...
+Apr 02, 2021 4:07:18 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-T12-2/tp.git (master) completed!
-Apr 02, 2021 5:45:36 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [22/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
-Apr 02, 2021 5:45:36 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:36 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
-Apr 02, 2021 5:45:36 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
-Apr 02, 2021 5:45:36 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
-Apr 02, 2021 5:45:37 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master) completed!
-Apr 02, 2021 5:45:37 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [23/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master)...
-Apr 02, 2021 5:45:37 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:18 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [22/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master)...
+Apr 02, 2021 4:07:18 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:37 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:18 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master)...
-Apr 02, 2021 5:45:37 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:18 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master)...
-Apr 02, 2021 5:45:37 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:18 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master)...
-Apr 02, 2021 5:45:41 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:19 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T12-3/tp.git (master) completed!
+Apr 02, 2021 4:07:19 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [23/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
+Apr 02, 2021 4:07:20 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:20 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
+Apr 02, 2021 4:07:20 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
+Apr 02, 2021 4:07:20 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master)...
+Apr 02, 2021 4:07:25 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-T11-4/tp.git (master) completed!
-Apr 02, 2021 5:45:41 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [24/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
-Apr 02, 2021 5:45:41 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:41 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
-Apr 02, 2021 5:45:42 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
-Apr 02, 2021 5:45:42 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
-Apr 02, 2021 5:45:44 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master) completed!
-Apr 02, 2021 5:45:44 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [25/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
-Apr 02, 2021 5:45:44 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:44 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
-Apr 02, 2021 5:45:44 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
-Apr 02, 2021 5:45:44 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
-Apr 02, 2021 5:45:48 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master) completed!
-Apr 02, 2021 5:45:48 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [26/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master)...
-Apr 02, 2021 5:45:48 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:25 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [24/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master)...
+Apr 02, 2021 4:07:25 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:48 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:25 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master)...
-Apr 02, 2021 5:45:48 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master) completed!
-Apr 02, 2021 5:45:48 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [27/48] Analyzing https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
-Apr 02, 2021 5:45:48 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:48 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
-Apr 02, 2021 5:45:49 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:26 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-1/tp.git (master) completed!
+Apr 02, 2021 4:07:26 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master)...
-Apr 02, 2021 5:45:49 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:26 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [25/48] Analyzing https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
+Apr 02, 2021 4:07:26 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master)...
-Apr 02, 2021 5:45:49 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
-Apr 02, 2021 5:45:49 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
-Apr 02, 2021 5:45:53 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master) completed!
-Apr 02, 2021 5:45:53 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [28/48] Analyzing https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
-Apr 02, 2021 5:45:53 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:53 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
-Apr 02, 2021 5:45:54 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
-Apr 02, 2021 5:45:54 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
-Apr 02, 2021 5:45:55 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:26 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:26 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
+Apr 02, 2021 4:07:26 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
+Apr 02, 2021 4:07:26 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master)...
+Apr 02, 2021 4:07:32 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-2/tp.git (master) completed!
-Apr 02, 2021 5:45:55 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [29/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
-Apr 02, 2021 5:45:55 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:55 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
-Apr 02, 2021 5:45:55 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
-Apr 02, 2021 5:45:55 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
-Apr 02, 2021 5:45:59 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master) completed!
-Apr 02, 2021 5:45:59 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [30/48] Analyzing https://github.com/AY2021S2-CS2103-T16-2/tp.git (master)...
-Apr 02, 2021 5:45:59 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:32 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [26/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
+Apr 02, 2021 4:07:32 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:32 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
+Apr 02, 2021 4:07:33 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
+Apr 02, 2021 4:07:33 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master)...
+Apr 02, 2021 4:07:33 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T12-4/tp.git (master) completed!
+Apr 02, 2021 4:07:33 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [27/48] Analyzing https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
+Apr 02, 2021 4:07:33 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:33 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
+Apr 02, 2021 4:07:34 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
+Apr 02, 2021 4:07:34 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master)...
+Apr 02, 2021 4:07:36 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T11-3/tp.git (master) completed!
+Apr 02, 2021 4:07:36 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [28/48] Analyzing https://github.com/AY2021S2-CS2103-T16-2/tp.git (master)...
+Apr 02, 2021 4:07:37 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-T16-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:45:59 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:37 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T16-2/tp.git (master)...
-Apr 02, 2021 5:45:59 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:37 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T16-2/tp.git (master)...
-Apr 02, 2021 5:45:59 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:37 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T16-2/tp.git (master)...
-Apr 02, 2021 5:46:00 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master) completed!
-Apr 02, 2021 5:46:00 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [31/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
-Apr 02, 2021 5:46:00 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:00 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
-Apr 02, 2021 5:46:00 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
-Apr 02, 2021 5:46:00 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
-Apr 02, 2021 5:46:03 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:38 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T10-2/tp.git (master) completed!
+Apr 02, 2021 4:07:38 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [29/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
+Apr 02, 2021 4:07:38 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:38 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
+Apr 02, 2021 4:07:39 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
+Apr 02, 2021 4:07:39 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master)...
+Apr 02, 2021 4:07:41 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-T16-2/tp.git (master) completed!
-Apr 02, 2021 5:46:03 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [32/48] Analyzing https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
-Apr 02, 2021 5:46:03 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-T16-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:03 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
-Apr 02, 2021 5:46:03 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
-Apr 02, 2021 5:46:03 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
-Apr 02, 2021 5:46:04 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master) completed!
-Apr 02, 2021 5:46:04 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [33/48] Analyzing https://github.com/AY2021S2-CS2103-T16-3/tp.git (master)...
-Apr 02, 2021 5:46:04 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:41 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [30/48] Analyzing https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
+Apr 02, 2021 4:07:41 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:41 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
+Apr 02, 2021 4:07:42 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
+Apr 02, 2021 4:07:42 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master)...
+Apr 02, 2021 4:07:43 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-4/tp.git (master) completed!
+Apr 02, 2021 4:07:43 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [31/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
+Apr 02, 2021 4:07:44 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:44 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
+Apr 02, 2021 4:07:44 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
+Apr 02, 2021 4:07:44 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master)...
+Apr 02, 2021 4:07:48 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T10-1/tp.git (master) completed!
+Apr 02, 2021 4:07:48 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [32/48] Analyzing https://github.com/AY2021S2-CS2103-T16-3/tp.git (master)...
+Apr 02, 2021 4:07:48 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-T16-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:04 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:48 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T16-3/tp.git (master)...
-Apr 02, 2021 5:46:04 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:48 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-3/tp.git (master) completed!
+Apr 02, 2021 4:07:48 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T16-3/tp.git (master)...
-Apr 02, 2021 5:46:05 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:48 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [33/48] Analyzing https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
+Apr 02, 2021 4:07:48 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T16-3/tp.git (master)...
-Apr 02, 2021 5:46:06 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:48 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-T16-1/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:48 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
+Apr 02, 2021 4:07:48 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
+Apr 02, 2021 4:07:48 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T16-1/tp.git (master)...
+Apr 02, 2021 4:07:51 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-T16-1/tp.git (master) completed!
-Apr 02, 2021 5:46:06 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:07:51 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [34/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master)...
-Apr 02, 2021 5:46:06 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:51 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:06 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:51 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master)...
-Apr 02, 2021 5:46:06 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master)...
-Apr 02, 2021 5:46:06 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master)...
-Apr 02, 2021 5:46:08 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:51 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-T16-3/tp.git (master) completed!
-Apr 02, 2021 5:46:08 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [35/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
-Apr 02, 2021 5:46:08 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:08 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
-Apr 02, 2021 5:46:08 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
-Apr 02, 2021 5:46:08 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
-Apr 02, 2021 5:46:11 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master) completed!
-Apr 02, 2021 5:46:11 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [36/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master)...
-Apr 02, 2021 5:46:11 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:51 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [35/48] Analyzing https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master)...
+Apr 02, 2021 4:07:51 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master)...
+Apr 02, 2021 4:07:51 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master)...
+Apr 02, 2021 4:07:51 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:11 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:51 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master)...
-Apr 02, 2021 5:46:12 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:52 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master)...
-Apr 02, 2021 5:46:12 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:52 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master)...
-Apr 02, 2021 5:46:12 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master) completed!
-Apr 02, 2021 5:46:12 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [37/48] Analyzing https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
-Apr 02, 2021 5:46:12 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-W16-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:12 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
-Apr 02, 2021 5:46:12 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
-Apr 02, 2021 5:46:12 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
-Apr 02, 2021 5:46:16 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:07:56 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-1/tp.git (master) completed!
-Apr 02, 2021 5:46:16 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [38/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
-Apr 02, 2021 5:46:16 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:16 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
-Apr 02, 2021 5:46:16 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-2/tp.git (master) completed!
-Apr 02, 2021 5:46:16 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [39/48] Analyzing https://github.com/AY2021S2-CS2103-T14-1/tp.git (master)...
-Apr 02, 2021 5:46:16 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
-Apr 02, 2021 5:46:16 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
-Apr 02, 2021 5:46:16 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:07:56 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [36/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
+Apr 02, 2021 4:07:56 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:07:56 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
+Apr 02, 2021 4:07:57 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T13-2/tp.git (master) completed!
+Apr 02, 2021 4:07:57 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [37/48] Analyzing https://github.com/AY2021S2-CS2103-T14-1/tp.git (master)...
+Apr 02, 2021 4:07:57 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
+Apr 02, 2021 4:07:57 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master)...
+Apr 02, 2021 4:07:57 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-T14-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:16 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:07:57 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-T14-1/tp.git (master)...
-Apr 02, 2021 5:46:17 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:07:57 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-T14-1/tp.git (master)...
-Apr 02, 2021 5:46:17 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:07:57 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-T14-1/tp.git (master)...
-Apr 02, 2021 5:46:21 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:08:00 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-T11-1/tp.git (master) completed!
+Apr 02, 2021 4:08:01 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [38/48] Analyzing https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
+Apr 02, 2021 4:08:01 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:01 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
+Apr 02, 2021 4:08:01 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
+Apr 02, 2021 4:08:01 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master)...
+Apr 02, 2021 4:08:02 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-T14-1/tp.git (master) completed!
-Apr 02, 2021 5:46:21 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:08:02 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [39/48] Analyzing https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
+Apr 02, 2021 4:08:02 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-W16-2/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:02 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
+Apr 02, 2021 4:08:02 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
+Apr 02, 2021 4:08:02 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-2/tp.git (master)...
+Apr 02, 2021 4:08:07 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-2/tp.git (master) completed!
+Apr 02, 2021 4:08:07 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [40/48] Analyzing https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master)...
-Apr 02, 2021 5:46:22 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:08:07 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:22 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:08:07 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master)...
-Apr 02, 2021 5:46:22 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:08:07 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master)...
-Apr 02, 2021 5:46:22 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:08:07 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master)...
-Apr 02, 2021 5:46:22 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:08:08 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-T11-2/tp.git (master) completed!
-Apr 02, 2021 5:46:22 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [41/48] Analyzing https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
-Apr 02, 2021 5:46:23 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-W16-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:23 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
-Apr 02, 2021 5:46:23 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
-Apr 02, 2021 5:46:23 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
-Apr 02, 2021 5:46:26 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master) completed!
-Apr 02, 2021 5:46:27 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [42/48] Analyzing https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master)...
-Apr 02, 2021 5:46:27 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:08:08 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [41/48] Analyzing https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master)...
+Apr 02, 2021 4:08:08 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:27 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:08:08 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master)...
-Apr 02, 2021 5:46:27 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:08:09 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master)...
-Apr 02, 2021 5:46:27 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:08:09 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master)...
-Apr 02, 2021 5:46:29 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-3/tp.git (master) completed!
-Apr 02, 2021 5:46:29 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [43/48] Analyzing https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
-Apr 02, 2021 5:46:29 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103-W16-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:29 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
-Apr 02, 2021 5:46:29 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
-Apr 02, 2021 5:46:29 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
-Apr 02, 2021 5:46:32 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-1/tp.git (master) completed!
-Apr 02, 2021 5:46:32 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [44/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
-Apr 02, 2021 5:46:32 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:32 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
-Apr 02, 2021 5:46:33 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:08:12 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-W10-3/tp.git (master) completed!
+Apr 02, 2021 4:08:12 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [42/48] Analyzing https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
+Apr 02, 2021 4:08:12 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-W16-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:12 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
+Apr 02, 2021 4:08:13 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
+Apr 02, 2021 4:08:13 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-3/tp.git (master)...
+Apr 02, 2021 4:08:15 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W10-4/tp.git (master) completed!
-Apr 02, 2021 5:46:33 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [45/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
-Apr 02, 2021 5:46:33 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:33 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
-Apr 02, 2021 5:46:33 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
-Apr 02, 2021 5:46:33 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
-Apr 02, 2021 5:46:33 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
-Apr 02, 2021 5:46:33 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
-Apr 02, 2021 5:46:35 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master) completed!
-Apr 02, 2021 5:46:35 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [46/48] Analyzing https://github.com/AY2021S2-CS2103-W16-4/tp.git (master)...
-Apr 02, 2021 5:46:35 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:08:15 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [43/48] Analyzing https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
+Apr 02, 2021 4:08:15 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103-W16-1/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:15 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
+Apr 02, 2021 4:08:15 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
+Apr 02, 2021 4:08:15 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-1/tp.git (master)...
+Apr 02, 2021 4:08:18 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-3/tp.git (master) completed!
+Apr 02, 2021 4:08:18 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [44/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
+Apr 02, 2021 4:08:18 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-1/tp.git (master) completed!
+Apr 02, 2021 4:08:18 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [45/48] Analyzing https://github.com/AY2021S2-CS2103-W16-4/tp.git (master)...
+Apr 02, 2021 4:08:19 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103-W16-4/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:35 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:08:19 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103-W16-4/tp.git (master)...
-Apr 02, 2021 5:46:35 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:08:19 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:19 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
+Apr 02, 2021 4:08:19 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103-W16-4/tp.git (master)...
-Apr 02, 2021 5:46:35 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:08:19 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103-W16-4/tp.git (master)...
-Apr 02, 2021 5:46:37 AM reposense.report.ReportGenerator analyzeRepo
-INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master) completed!
-Apr 02, 2021 5:46:37 AM reposense.report.ReportGenerator analyzeRepos
-INFO: [47/48] Analyzing https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
-Apr 02, 2021 5:46:37 AM reposense.report.ReportGenerator updateRepoConfig
-INFO: https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:37 AM reposense.commits.CommitInfoExtractor extractCommitInfos
-INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
-Apr 02, 2021 5:46:37 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
-INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
-Apr 02, 2021 5:46:37 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
-INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
-Apr 02, 2021 5:46:38 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:08:19 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
+Apr 02, 2021 4:08:19 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master)...
+Apr 02, 2021 4:08:21 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103-W16-4/tp.git (master) completed!
-Apr 02, 2021 5:46:38 AM reposense.report.ReportGenerator analyzeRepos
+Apr 02, 2021 4:08:21 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [46/48] Analyzing https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
+Apr 02, 2021 4:08:22 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:22 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
+Apr 02, 2021 4:08:22 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
+Apr 02, 2021 4:08:22 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master)...
+Apr 02, 2021 4:08:24 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-3/tp.git (master) completed!
+Apr 02, 2021 4:08:24 PM reposense.report.ReportGenerator analyzeRepos
+INFO: [47/48] Analyzing https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
+Apr 02, 2021 4:08:24 PM reposense.report.ReportGenerator updateRepoConfig
+INFO: https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master) does not contain a standalone config file.
+Apr 02, 2021 4:08:24 PM reposense.commits.CommitInfoExtractor extractCommitInfos
+INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
+Apr 02, 2021 4:08:24 PM reposense.report.ReportGenerator analyzeRepo
+INFO: Analysis of https://github.com/AY2021S2-CS2103T-W13-4/tp.git (master) completed!
+Apr 02, 2021 4:08:24 PM reposense.report.ReportGenerator analyzeRepos
 INFO: [48/48] Analyzing https://github.com/AY2021S2-CS2103T-W10-1/tp.git (master)...
-Apr 02, 2021 5:46:38 AM reposense.report.ReportGenerator updateRepoConfig
+Apr 02, 2021 4:08:24 PM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/AY2021S2-CS2103T-W10-1/tp.git (master) does not contain a standalone config file.
-Apr 02, 2021 5:46:38 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Apr 02, 2021 4:08:24 PM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/AY2021S2-CS2103T-W10-1/tp.git (master)...
-Apr 02, 2021 5:46:38 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Apr 02, 2021 4:08:24 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
+INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
+Apr 02, 2021 4:08:24 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
+INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master)...
+Apr 02, 2021 4:08:24 PM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/AY2021S2-CS2103T-W10-1/tp.git (master)...
-Apr 02, 2021 5:46:38 AM reposense.authorship.FileInfoExtractor extractTextFileInfos
+Apr 02, 2021 4:08:24 PM reposense.authorship.FileInfoExtractor extractTextFileInfos
 INFO: Extracting relevant file info from https://github.com/AY2021S2-CS2103T-W10-1/tp.git (master)...
-Apr 02, 2021 5:46:42 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:08:28 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W10-1/tp.git (master) completed!
-Apr 02, 2021 5:46:42 AM reposense.report.ReportGenerator analyzeRepo
+Apr 02, 2021 4:08:30 PM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/AY2021S2-CS2103T-W10-2/tp.git (master) completed!
-Apr 02, 2021 5:46:42 AM reposense.report.ReportGenerator generateReposReport
+Apr 02, 2021 4:08:30 PM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/runner/work/tp-dashboard/tp-dashboard/reposense-report
-Apr 02, 2021 5:46:45 AM reposense.RepoSense main
-INFO: Elapsed processing time: 2 minute(s) 20.05 second(s)
+Apr 02, 2021 4:08:32 PM reposense.RepoSense main
+INFO: Elapsed processing time: 2 minute(s) 30.82 second(s)
